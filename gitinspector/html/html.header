@@ -11,7 +11,7 @@
 		<script type="application/javascript">
 			$(document).ready(function() {{
 				var row = 0;
-				var MINOR_AUTHOR_PERCENTAGE = 1.00;
+				var MINOR_AUTHOR_PERCENTAGE = 0.00;
 				var isReversed = false;
 
 				var colorRows = function() {{
